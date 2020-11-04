@@ -16,12 +16,12 @@ The program provides six functionalities that are to be used in the following fo
 
 **Add**, **delete** and **find** functions are run in **O(1) time complexity**.  
 
-There are 3 differently sized datasets to choose from in the **inputs folder**:  
+There are 3 different sizes of **datasets** to choose from in the **inputs folder**:  
 - hotels1k.csv
 - hotels10k.csv
 - hotels100k.csv
 
-To run the program:
+**To run the program**:
 
 1. Open terminal 
 2. Change the directory to where the files are stored 
