@@ -13,7 +13,7 @@ The menu option will give 6 options:
 - Delete hotel,city
 - Dump hotel information
 - allinCity
--> Quit
+- Quit
 
 The user can add, delete or search for hotels in O(1) time complexity.
 
@@ -24,10 +24,10 @@ There are 3 differently sized datasets you can choose from:
 	2.hotels10k.csv
 	3.hotels100k.csv
 
-To run the program on Mac OS:
+To run the program:
 
 1. Open terminal 
-2. Change the directory to where the file is stored in 
+2. Change the directory to where the files are stored 
 3. Afterwards type: make
 4. Finally: ./hotelFinder -f <one of the files above> 
 
